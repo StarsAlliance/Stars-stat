@@ -1,0 +1,14 @@
+Sheme:
+Frontend: PHP, Javascript, JQuery
+Backend: MySQL, PHP, Python
+
+
+Database -> query -> PHP
+Server -> logs reading or event collecting -> query -> database
+Server query -> Heartbeat -> Masterserver (updates&stats collecting)
+
+Counter-Strike Source - Evenscripts, Metamod plugin
+Call of Duty - BigBrotherbot fork (Extended database, Rewrite to python 3 (UTF-8 support))
+To be continued...
+
+Standalone + Joomla components
