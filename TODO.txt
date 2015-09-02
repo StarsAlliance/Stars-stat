@@ -12,3 +12,13 @@ Call of Duty - BigBrotherbot fork (Extended database, Rewrite to python 3 (UTF-8
 To be continued...
 
 Standalone + Joomla components
+
+Supported plugins for:
+MetaMod
+MetaMod:Source
+BigBrotherBot
+Eventscripts
+
+Site ID (openID)
+Rating system for players
+Ability to "Register" nickname from the game chat using site's id
